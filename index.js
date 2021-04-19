@@ -1,1 +1,1 @@
-require("./app.js")
+require("./bin/www")
